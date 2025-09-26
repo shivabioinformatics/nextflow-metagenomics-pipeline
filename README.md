@@ -7,6 +7,9 @@ In this repository, I am building a Nextflow metagenomics pipeline for my master
   <img src="metagenomic_diagram.png" width="400"/>
 </p>
 
+**Thesis Publication**: 
+https://www.proquest.com/docview/3245242203
+
 During my analysis throughout my master's program, I encountered numerous errors during the process, and sometimes my analysis would crash, setting me back for weeks and sometimes months.
 During this process, I learned about Nextflow for processing and automating pipelines, and I began to appreciate how Nextflow helps organize both my thought process and the analysis workflow.
 Therefore, I am rewriting my pipeline in Nextflow to make it reproducible for others and as good practice for learning Nextflow.
